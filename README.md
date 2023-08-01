@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexander Sokolov 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/alsokoloff?style=for-the-badge&logo=twitter&color=1DA1F2)]((https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsokoloff&screen_name=alsokoloff))
+[![Twitter Follow](https://img.shields.io/twitter/follow/alsokoloff?style=for-the-badge&logo=twitter&color=1DA1F2)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsokoloff&screen_name=alsokoloff)
 
 ### About me
 
